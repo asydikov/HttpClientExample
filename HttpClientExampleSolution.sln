@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{03DF8974-0AAC-47BC-99F5-625C14566061}"
+	ProjectSection(SolutionItems) = preProject
+		src\Readme.md = src\Readme.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientExampleConsole", "src\HttpClientExampleConsole\HttpClientExampleConsole.csproj", "{E800A3D0-506C-4155-AA98-EF9C7746E2EC}"
 EndProject
